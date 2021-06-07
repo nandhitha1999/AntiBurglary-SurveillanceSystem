@@ -1,2 +1,2 @@
 # AntiBurglary-SurveillanceSystem
-Implementation of a smart surveillance using Image AI to prevent incidents of theft or robbery
+Implementation of smart surveillance using Image AI to prevent incidents of theft or robbery
